@@ -10,6 +10,16 @@ Basic utilities.
 /pully install utils
 ```
 
+#### Require as Dependency
+
+```json
+{
+  "dependencies": {
+    "utils": "0.1.0"
+  }
+}
+```
+
 #### Manual Install
 
 1. [Download **utils**](https://github.com/FabricCore/modutils/archive/refs/heads/master.zip).
