@@ -43,7 +43,3 @@ Convert degrees to radians.
 #### utils.toDegrees(rad: Number) → Number
 
 Convert radians to degrees.
-
-#### utils.playerVelocity() → [Vec3d](https://fabriccore.github.io/yarnwrap/build/latest.html?q=util.math.Vec3d)
-
-Returns player velocity in blocks per second.
