@@ -1,13 +1,13 @@
-# Utils
+# Maths
 
-Basic utilities.
+Basic maths functions.
 
 ### Installation
 
 #### Using [pully](https://github.com/FabricCore/pully)
 
 ```
-/pully install utils
+/pully install maths
 ```
 
 #### Require as Dependency
@@ -15,31 +15,31 @@ Basic utilities.
 ```json
 {
   "dependencies": {
-    "utils": "0.1.0"
+    "maths": "0.1.0"
   }
 }
 ```
 
 #### Manual Install
 
-1. [Download **utils**](https://github.com/FabricCore/modutils/archive/refs/heads/master.zip).
-2. Unzip file content to _.minecraft/config/jscore/modules/utils/_
+1. [Download **utils**](https://github.com/FabricCore/modmaths/archive/refs/heads/master.zip).
+2. Unzip file content to _.minecraft/config/jscore/modules/maths/_
 
 The folder should look like this
 
 ```
 .minecraft/config/jscore/
 └── modules/
-    └── utils/
+    └── maths/
         └── package.json
 ```
 
 ## Library Functions
 
-#### utils.toRadians(deg: Number) → Number
+#### maths.toRadians(deg: Number) → Number
 
 Convert degrees to radians.
 
-#### utils.toDegrees(rad: Number) → Number
+#### maths.toDegrees(rad: Number) → Number
 
 Convert radians to degrees.

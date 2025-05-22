@@ -1,14 +1,14 @@
 {
-    "name": "utils",
+    "name": "maths",
     "version": "0.1.0",
     "authors": [ "Sirius<siriusmart>" ],
     "description": "Basic utilities.",
     "license": "AGPL-3.0-or-later",
-    "keywords": [ "core", "toggles" ],
+    "keywords": [ "core", "maths", "math" ],
 
     "entry": "entry.js",
     "dependencies": {},
 
-    "repository": "https://github.com/FabricCore/modutils",
+    "repository": "https://github.com/FabricCore/modmaths",
     "homepage": null
 }

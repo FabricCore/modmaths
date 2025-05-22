@@ -1,3 +1,3 @@
-let utils = {};
+let maths = {};
 
-require("modules/utils/maths/index.js");
+require("modules/maths/radian.js");
