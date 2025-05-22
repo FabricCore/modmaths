@@ -2,7 +2,7 @@
     "name": "maths",
     "version": "0.1.0",
     "authors": [ "Sirius<siriusmart>" ],
-    "description": "Basic utilities.",
+    "description": "Basic maths functions.",
     "license": "AGPL-3.0-or-later",
     "keywords": [ "core", "maths", "math" ],
 
